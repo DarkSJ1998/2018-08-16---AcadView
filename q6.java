@@ -1,3 +1,7 @@
+/*
+Q6. Check if a number N is prime or not.
+*/
+
 class Prime
 {
 	private int num;
