@@ -1,3 +1,7 @@
+/*
+Q4. Given three numbers a b c, write a Java program to find the biggest out of three numbers.
+*/
+
 class greatest
 {
 	private int a,b,c;
