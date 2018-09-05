@@ -1,3 +1,7 @@
+/*
+Q1. Take two numbers a and b, and add them. Print the sum on the screen.
+*/
+
 class sum
 {
 	private int a,b,sum;
