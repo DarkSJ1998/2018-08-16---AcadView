@@ -1,3 +1,7 @@
+/*
+Q7. Find the reverse of a number N.
+*/
+
 class Reverse
 {
 	private int num,rev;
