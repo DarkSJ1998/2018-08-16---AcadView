@@ -1,3 +1,7 @@
+/*
+Q2.Check if a given year is a leap year or not.
+*/
+
 class year
 {
 	private int year;
