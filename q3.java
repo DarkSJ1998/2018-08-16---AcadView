@@ -1,3 +1,11 @@
+/*
+Q3.Print the pattern:
+*
+**
+***
+****
+*/
+
 class q3
 {
 	public static void main(String[] y)
