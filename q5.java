@@ -1,3 +1,7 @@
+/*
+Q5. Check if a number N is a palindrome or not.
+*/
+
 class Palindrome
 {
 	private int num,rev;
